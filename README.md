@@ -1,0 +1,2 @@
+# DIABETES_PREDICTION-PROJECT-CREATE-ANN-PYTORCH
+This is my first Project of Ann 
